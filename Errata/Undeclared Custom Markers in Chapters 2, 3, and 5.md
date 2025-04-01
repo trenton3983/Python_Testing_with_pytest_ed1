@@ -1,7 +1,3 @@
-Here is the updated and polished Markdown for GitHub, consolidating this additional erratum about undeclared markers across chapters:
-
----
-
 # Errata: *Python Testing with pytest* – Undeclared Custom Markers in Chapters 2, 3, and 5
 
 ## Issue Summary
