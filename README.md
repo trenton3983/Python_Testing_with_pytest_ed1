@@ -1,3 +1,5 @@
+![book cover](Python_Testing_with_pytest.png)
+
 # Python Testing with pytest
 
 ## Overview
@@ -31,3 +33,4 @@ The book takes a hands-on, practical approach by guiding the reader through buil
 ## Note
 
 While some examples and tool versions may be dated due to the 2017 publication, the testing concepts and pytest fundamentals presented are still widely applicable today.
+- [Errata, typos, suggestions](https://devtalk.com/books/python-testing-with-pytest/errata)
